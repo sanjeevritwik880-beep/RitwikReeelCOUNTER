@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="svc_desc">Counts Reels you scroll in Instagram (and optionally YouTube Shorts). Reads no text or messages and sends nothing anywhere.</string>
+</resources>
